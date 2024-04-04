@@ -13,7 +13,7 @@ This repository contains code for a simple chatbot application built using Pytho
 1. Clone the repository:
 
 bash
-git clone https://github.com/yourusername/chatbot.git
+git clone https://github.com/jaiprakashoffcl/chatbot.git
 
 Create a Virtual Environment:
 
