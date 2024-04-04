@@ -67,7 +67,7 @@ We welcome contributions from the community! Feel free to submit bug reports, fe
 
 ## About the Author
 
-Hi there! I'm Jaiprakash, the developer behind this chatbot application. You can find me on GitHub as [@jaiprakashoffcl](https://github.com/jaiprakashoffcl). I'm passionate about building innovative solutions that make a difference.
+Hi there! I'm Jaiprakash, the developer behind this chatbot application. You can find me on GitHub as [jaiprakashoffcl](https://github.com/jaiprakashoffcl). I'm passionate about building innovative solutions that make a difference.
 
 ## License
 
